@@ -2492,7 +2492,7 @@ footer .copyright span:last-child::after {
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #FF0077;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -2501,13 +2501,13 @@ footer .copyright span:last-child::after {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #FF0077;
+  color: white;
 }
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #4CAF50;
+  background-color: #FF0077;
   color: white;
 }
 
