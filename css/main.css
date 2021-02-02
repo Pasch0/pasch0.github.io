@@ -2539,8 +2539,7 @@ footer .copyright span:last-child::after {
     text-align: left;
   }
 }
-Step 3) Add JavaScript:
-Example
+
 /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
 function myFunction() {
   var x = document.getElementById("myTopnav");
