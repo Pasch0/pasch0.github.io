@@ -2544,9 +2544,6 @@ footer .copyright span:last-child::after {
 .htb{
 	position: relative;
 	text-align: left;
-	max-width: 850px;
-	margin-bottom: 3.6rem;
-	float: center;
-	margin: 0px, 0px, 100px, 30px;
+	margin-bottom: 8.6rem;
 }
 /*# sourceMappingURL=main.css.map */
