@@ -1521,11 +1521,6 @@ header .logo a {
 	margin-bottom: 3.6rem;
 }
 
-.about-content htb {
-	padding-left: 3.6rem;
-	margin-bottom: 5.6rem;
-}
-
 .about-content h3 {
 	font-family: "poppins-bold", sans-serif;
 	font-size: 1.8rem;
@@ -2546,5 +2541,12 @@ footer .copyright span:last-child::after {
   }
 }
 
-
+.htb{
+	position: relative;
+	text-align: left;
+	max-width: 850px;
+	margin-bottom: 3.6rem;
+	float: center;
+	margin: 0px, 0px, 100px, 30px;
+}
 /*# sourceMappingURL=main.css.map */
