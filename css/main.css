@@ -1520,6 +1520,12 @@ header .logo a {
 	max-width: 850px;
 	margin-bottom: 3.6rem;
 }
+
+.about-content htb {
+	padding-left: 3.6rem;
+	margin-bottom: 5.6rem;
+}
+
 .about-content h3 {
 	font-family: "poppins-bold", sans-serif;
 	font-size: 1.8rem;
